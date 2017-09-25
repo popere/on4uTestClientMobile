@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\dev\symfonyProject\on4uTestMobileClient\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="caa8f6b5b55357b8e0bdaf0529a8d86a5c527212">
+        <dex dex="C:\dev\symfonyProject\on4uTestMobileClient\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_8ca2d80edcd8034f96cd0dd37ab13ead6e25aeb0.jar" />
+    </item>
+
+</items>
